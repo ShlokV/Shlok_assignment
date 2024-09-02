@@ -1,15 +1,16 @@
-import SignupForm from "./components/SignUpForm";
-import LoginForm from "./components/LoginForm";
+import ProductList from './components/ProductList'; 
+import Materials from './components/Materials'; 
 
 function App() {
   return (
-    <div className="flex justify-center items-start h-screen p-4 bg-gray-100">
-      <div className="flex space-x-8 max-w-4xl w-full">
-        <div className="flex-1 p-4 bg-white shadow-md rounded-lg">
-          <SignupForm />
-        </div>
-        <div className="flex-1">
-          <LoginForm />
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
+      <div className="max-w-4xl w-full bg-white shadow-lg rounded-lg p-6">
+        <h1 className="text-3xl font-extrabold text-center mb-6 text-gray-800">
+          My Product Store
+        </h1>
+        <ProductList />
+        <div className='mt-4'>
+        <Materials />
         </div>
       </div>
     </div>
