@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "54ed",
+      "firstName": "Shlok",
+      "lastName": "Verma",
+      "email": "shlok.verma2011@gmail.com",
+      "confirmEmail": "shlok.verma2011@gmail.com",
+      "password": "@shlok123",
+      "sex": "male",
+      "month": "October",
+      "day": 2,
+      "year": 1998,
+      "address": "Om nilaya ground floor door no 84 4th cross 2nd main road bhadrappa layout Bangalore 560094 karnataka",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560094"
+    },
+    {
+      "id": "1b03",
+      "firstName": "Shlok",
+      "lastName": "Verma",
+      "email": "shlok.verma2011@gmail.com",
+      "confirmEmail": "shlok.verma2011@gmail.com",
+      "password": "@Shlok123",
+      "sex": "male",
+      "month": "October",
+      "day": 2,
+      "year": 1997,
+      "address": "Om nilaya ground floor door no 84 4th cross 2nd main road bhadrappa layout Bangalore 560094 karnataka",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560094"
+    }
+  ]
+}
